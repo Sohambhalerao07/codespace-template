@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.feba728d.css",
-    "main.js": "/static/js/main.915bcd58.js",
-    "static/js/453.a5ed886c.chunk.js": "/static/js/453.a5ed886c.chunk.js",
-    "static/media/woman-with-tablet.jpg": "/static/media/woman-with-tablet.47b8633c9c57f62a7653.jpg",
-    "static/media/design-desk.jpeg": "/static/media/design-desk.c1996f349dc2330e1096.jpeg",
-    "static/media/motion-background.jpg": "/static/media/motion-background.162019996b695dde089a.jpg",
-    "static/media/instagram.svg": "/static/media/instagram.318e6df2752736d3c45c33aed816ef9f.svg",
-    "static/media/github.svg": "/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
-    "static/media/devdotto.svg": "/static/media/devdotto.0ff9f0d7b8ce0b5aa62e2f733495d83b.svg",
-    "index.html": "/index.html",
-    "static/media/linkedin.svg": "/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
-    "static/media/twitter.svg": "/static/media/twitter.9fc479687bd8af1d4abc8a1fce7dc568.svg",
-    "static/media/youtube.svg": "/static/media/youtube.f5a3fbc126791c9789e222f96fca742f.svg",
-    "static/media/medium.svg": "/static/media/medium.a73cd7178cc078152fd9eb34bd74f5ac.svg",
-    "static/media/down-arrow.svg": "/static/media/down-arrow.91079b27aa77759d539380d0c831ab87.svg",
-    "static/media/envelope.svg": "/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
-    "main.feba728d.css.map": "/static/css/main.feba728d.css.map",
-    "main.915bcd58.js.map": "/static/js/main.915bcd58.js.map",
-    "453.a5ed886c.chunk.js.map": "/static/js/453.a5ed886c.chunk.js.map"
+    "main.css": "/codespace-template/static/css/main.feba728d.css",
+    "main.js": "/codespace-template/static/js/main.408ec640.js",
+    "static/js/453.a5ed886c.chunk.js": "/codespace-template/static/js/453.a5ed886c.chunk.js",
+    "static/media/woman-with-tablet.jpg": "/codespace-template/static/media/woman-with-tablet.47b8633c9c57f62a7653.jpg",
+    "static/media/design-desk.jpeg": "/codespace-template/static/media/design-desk.c1996f349dc2330e1096.jpeg",
+    "static/media/motion-background.jpg": "/codespace-template/static/media/motion-background.162019996b695dde089a.jpg",
+    "static/media/instagram.svg": "/codespace-template/static/media/instagram.318e6df2752736d3c45c33aed816ef9f.svg",
+    "static/media/github.svg": "/codespace-template/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
+    "static/media/devdotto.svg": "/codespace-template/static/media/devdotto.0ff9f0d7b8ce0b5aa62e2f733495d83b.svg",
+    "index.html": "/codespace-template/index.html",
+    "static/media/linkedin.svg": "/codespace-template/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
+    "static/media/twitter.svg": "/codespace-template/static/media/twitter.9fc479687bd8af1d4abc8a1fce7dc568.svg",
+    "static/media/youtube.svg": "/codespace-template/static/media/youtube.f5a3fbc126791c9789e222f96fca742f.svg",
+    "static/media/medium.svg": "/codespace-template/static/media/medium.a73cd7178cc078152fd9eb34bd74f5ac.svg",
+    "static/media/down-arrow.svg": "/codespace-template/static/media/down-arrow.91079b27aa77759d539380d0c831ab87.svg",
+    "static/media/envelope.svg": "/codespace-template/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "main.feba728d.css.map": "/codespace-template/static/css/main.feba728d.css.map",
+    "main.408ec640.js.map": "/codespace-template/static/js/main.408ec640.js.map",
+    "453.a5ed886c.chunk.js.map": "/codespace-template/static/js/453.a5ed886c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feba728d.css",
-    "static/js/main.915bcd58.js"
+    "static/js/main.408ec640.js"
   ]
 }
