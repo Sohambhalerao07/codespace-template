@@ -31,10 +31,10 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Java",
-  "JavaFX",
   "JavaScript",
   "ReactJS",
+  "Java",
+  "JavaFX",
   "Data integrations",
   "Attention to detail"
 ];
