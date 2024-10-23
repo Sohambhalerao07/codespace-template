@@ -23,13 +23,13 @@ jobs:
         run: npm install  # Using npm directly instead of an action for simplicity
 
       - name: Build project
-        run: npm run build
+        run: npm run build  # create-react-app generates files in './build'
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v3
         with:
           name: production-files
-          path: ./dist
+          path: ./build  # <-- Change this to ./build
 
   deploy:
     name: Deploy
@@ -42,11 +42,11 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: production-files
-          path: ./dist
+          path: ./build  # <-- Change this to ./build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-
+          publish_dir: ./build  # <-- Change this to ./build
+ 
